@@ -1,0 +1,14 @@
+.banner {
+	background-image: url(../../images/hero.png);
+	color: rgb(210, 210, 210);
+	font-size: 50px;
+	padding: 300px 0px;
+	background-size: cover;
+	background-position: center;
+	opacity: 1;
+}
+
+.intro {
+
+
+}

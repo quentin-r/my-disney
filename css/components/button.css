@@ -1,0 +1,39 @@
+.btn-blue {
+	background-color: rgb(0, 0 ,0);
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: rgb(237, 224, 40);
+	font-weight: bold;
+	font-family: WaltographRegular;
+}
+
+.btn-blue:hover {
+	opacity: 0.9;
+}
+
+.btn-mvl {
+	background-color: rgb(249, 14, 14);
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: WaltographRegular;
+}
+
+.btn-mvl:hover {
+	opacity: 0.9;
+}
+
+.btn-sw {
+	background-color: rgb(0, 0 ,0);
+	padding: 15px 20px;
+	border-radius: 4px;
+	text-shadow: 0 0 4px#fcf00a;
+	color: white;
+	font-weight: bold;
+	font-family: WaltographRegular;
+}
+
+.btn-sw:hover {
+	opacity: 0.9;
+}

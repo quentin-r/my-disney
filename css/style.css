@@ -1,0 +1,53 @@
+@import url('https://fontlibrary.org/face/waltograph');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/card-1.css");
+@import url("components/card-2.css");
+@import url("components/main-card.css");
+@import url("components/title.css");
+@import url("components/cards.css");
+@import url("components/card-3.css");
+
+body {
+	font-family: WaltographRegular;
+	font-size: 50px;
+	margin: 0px;
+	text-align: center;
+
+}
+
+h1 {
+	font-family: WaltographRegular;
+	font-size: 14px;
+	text-align: center;
+	padding-top: 10px;
+}
+
+h2 {
+	font-family: WaltographRegular;
+	font-size: 30px;
+	text-align: center;
+}
+
+h3 {
+	font-size: 20px;
+	font-family: Courier
+}
+
+h4 {
+	border-style: solid;
+	border-color: black;
+}
+
+
+p {
+	font-family: WaltographRegular;
+	font-size : 30px;
+}
+a {
+	text-decoration: none;
+}
